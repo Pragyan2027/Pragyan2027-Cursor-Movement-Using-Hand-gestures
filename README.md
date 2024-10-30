@@ -1,1 +1,1 @@
-# Pragyan2027-Cursor-Movement-Using-Hand-gestures
+Cursor-Movement-Using-Hand-gestures
